@@ -4,7 +4,11 @@ pulic class Test{
  }
  public void login(){
  }
+
  public void securitycheck(){
+
+ public void signup(){
+
  }
   
 }
